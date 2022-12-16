@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-saimovies/static/css/main.6f3d1e54.css",
+    "main.js": "/react-saimovies/static/js/main.ce001c01.js",
+    "static/js/787.49bdae9c.chunk.js": "/react-saimovies/static/js/787.49bdae9c.chunk.js",
+    "index.html": "/react-saimovies/index.html",
+    "main.6f3d1e54.css.map": "/react-saimovies/static/css/main.6f3d1e54.css.map",
+    "main.ce001c01.js.map": "/react-saimovies/static/js/main.ce001c01.js.map",
+    "787.49bdae9c.chunk.js.map": "/react-saimovies/static/js/787.49bdae9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3d1e54.css",
+    "static/js/main.ce001c01.js"
+  ]
+}
